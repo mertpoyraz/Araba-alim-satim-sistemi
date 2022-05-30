@@ -1,5 +1,5 @@
 # Görsel Programlama Dönem Ödevi
-Projeyi sahibi : Melik Fırat Vural 
+Projeyi sahibi : Melik Fırat Vural, Mert Poyraz
  
 Proje Adı : Araç alım satım sistemi 
  
