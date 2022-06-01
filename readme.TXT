@@ -1,4 +1,6 @@
 # Görsel Programlama Dönem Ödevi
+
+ÖNEMLİ : Hocam dosyalarda yüklerken sıkıntı olabilir öyle bir durum olursa yeniden yükleyebilirim. Aynı proje Melik Fıratda da mevcut zaten, ordan da bakabilirsiniz.
 Projeyi sahibi : Melik Fırat Vural, Mert Poyraz
  
 Proje Adı : Araç alım satım sistemi 
